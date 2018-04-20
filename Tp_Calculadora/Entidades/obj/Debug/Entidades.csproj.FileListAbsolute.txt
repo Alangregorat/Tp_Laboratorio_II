@@ -1,0 +1,15 @@
+D:\VisualStudio\Lab-Alan\Entidades\bin\Debug\Entidades.exe.config
+D:\VisualStudio\Lab-Alan\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Lab-Alan\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Lab-Alan\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\alumno\Desktop\Lab-Alan\Entidades\bin\Debug\Entidades.dll
+C:\Users\alumno\Desktop\Lab-Alan\Entidades\bin\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\Lab-Alan\Entidades\obj\Debug\Entidades.dll
+C:\Users\alumno\Desktop\Lab-Alan\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Alan\Desktop\Lab-Alan\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\Alan\Desktop\Lab-Alan\Entidades\bin\Debug\Entidades.dll
+C:\Users\Alan\Desktop\Lab-Alan\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Alan\Desktop\Lab-Alan\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Desktop\Lab-Alan\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\Lab-Alan\Entidades\obj\Debug\Entidades.dll
+C:\Users\Alan\Desktop\Lab-Alan\Entidades\obj\Debug\Entidades.pdb

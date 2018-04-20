@@ -1,0 +1,6 @@
+D:\VisualStudio\Lab-Alan\Clase3\bin\Debug\Clase3.exe.config
+D:\VisualStudio\Lab-Alan\Clase3\bin\Debug\Clase3.exe
+D:\VisualStudio\Lab-Alan\Clase3\bin\Debug\Clase3.pdb
+D:\VisualStudio\Lab-Alan\Clase3\obj\Debug\Clase3.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Lab-Alan\Clase3\obj\Debug\Clase3.exe
+D:\VisualStudio\Lab-Alan\Clase3\obj\Debug\Clase3.pdb
